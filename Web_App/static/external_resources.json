@@ -1,0 +1,74 @@
+[
+
+	{
+		"diagnosis": "Major Depressive Disorder",
+		"about": "https://www.nimh.nih.gov/health/topics/depression/index.shtml;https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007",
+		"treatment": "https://www.drugs.com/condition/major-depressive-disorder.html;https://www.healthline.com/health/clinical-depression#treatment"
+	},
+	{
+		"diagnosis": "Attention Deficit Hyperactivity Disorder",
+		"about": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml;https://www.mayoclinic.org/diseases-conditions/adult-adhd/symptoms-causes/syc-20350878",
+		"treatment": "https://www.drugs.com/condition/attention-deficit-disorder.html;https://www.healthline.com/health/adhd#treatment"
+	},
+	{
+		"diagnosis": "Oppositional Defiant Disorder",
+		"about": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716335/;https://www.mayoclinic.org/diseases-conditions/oppositional-defiant-disorder/symptoms-causes/syc-20375831",
+		"treatment": "https://www.drugs.com/condition/oppositional-defiant-disorder.html;https://www.healthline.com/health/oppositional-defiant-disorder#treatment"
+	},
+	{
+		"diagnosis": "Conduct Disorder",
+		"about": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5607565/;https://www.mayoclinic.org/diseases-conditions/antisocial-personality-disorder/symptoms-causes/syc-20353928",
+		"treatment": "https://www.drugs.com/mcd/antisocial-personality-disorder#treatment;https://www.healthline.com/health/conduct-disorder#treatments"
+	},
+	{
+		"diagnosis": "Pervasive Developmental Disorder",
+		"about": "https://www.ninds.nih.gov/disorders/all-disorders/pervasive-developmental-disorders-information-page;https://www.webmd.com/brain/autism/development-disorder",
+		"treatment": "https://emedicine.medscape.com/article/914683-medication;https://www.healthline.com/health/autism/pdd-nos#treatment"
+	},
+	{
+		"diagnosis": "Intellectual Disability (Mental Retardation)",
+		"about": "https://www.nichd.nih.gov/health/topics/idds/conditioninfo/default;https://www.webmd.com/parenting/baby/intellectual-disability-mental-retardation#1",
+		"treatment": "https://pmj.bmj.com/content/79/929/139;https://www.healthline.com/health/mental-retardation#treatment"
+	},
+	{
+		"diagnosis": "Psychotic Disorder",
+		"about": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2930984/;https://medlineplus.gov/psychoticdisorders.html",
+		"treatment": "https://www.drugs.com/condition/psychosis.html;https://www.healthline.com/health/psychosis#treatment"
+	},
+	{
+		"diagnosis": "Adjustment Disorder",
+		"about": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790100/;https://www.mayoclinic.org/diseases-conditions/adjustment-disorders/symptoms-causes/syc-20355224",
+		"treatment": "https://www.drugs.com/mcd/adjustment-disorders#treatment;https://www.healthline.com/health/adjustment-disorder#treatment"
+	},
+	{
+		"diagnosis": "Mood Disorder",
+		"about": "https://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml;https://www.mayoclinic.org/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057",
+		"treatment": "https://www.drugs.com/condition/bipolar-disorder.html;https://www.healthline.com/health/bipolar-disorder#treatment"
+	},
+	{
+		"diagnosis": "General Anxiety Disorder",
+		"about": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad/index.shtml;https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803",
+		"treatment": "https://www.drugs.com/condition/generalized-anxiety-disorder.html;https://www.healthline.com/health/anxiety/generalized-anxiety-disorder#treatment"
+	},
+	{
+		"diagnosis": "Social Anxiety Disorder",
+		"about": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness/index.shtml;https://www.mayoclinic.org/diseases-conditions/social-anxiety-disorder/symptoms-causes/syc-20353561",
+		"treatment": "https://www.drugs.com/condition/social-anxiety-disorder.html;https://www.healthline.com/health/anxiety/social-phobia#treatment"
+	},
+	{
+		"diagnosis": "Seasonal Affective Disorder",
+		"about": "https://www.nimh.nih.gov/health/topics/seasonal-affective-disorder/index.shtml;https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/symptoms-causes/syc-20364651",
+		"treatment": "https://www.drugs.com/condition/seasonal-affective-disorder.html;https://www.healthline.com/health/seasonal-affective-disorder#treatments"
+	},
+	{
+		"diagnosis": "Substance Abuse",
+		"about": "https://www.nimh.nih.gov/health/topics/substance-use-and-mental-health/index.shtml;https://www.mayoclinic.org/diseases-conditions/drug-addiction/symptoms-causes/syc-20365112",
+		"treatment": "https://americanaddictioncenters.org/addiction-medications;https://www.healthline.com/health/addiction#treatment"
+	},
+	{
+		"diagnosis": "Autism Spectrum Disorder",
+		"about": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml;https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes/syc-20352928",
+		"treatment": "https://www.drugs.com/condition/autism.html;https://www.healthline.com/health/autism#treatment"
+	}
+	
+]
