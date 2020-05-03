@@ -25,9 +25,9 @@ question23 = ["Lastly, I have to ask, do you have any family history of clinical
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-authenticator = IAMAuthenticator('oZhQo0oyH46NfPTZ-TZnFONurehk7fBf8iliB7RuPY_3')
+authenticator = IAMAuthenticator('key')
 text_to_speech = TextToSpeechV1(authenticator=authenticator)
-text_to_speech.set_service_url('https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/d5c64875-1944-4313-9021-492ba09c224a')
+text_to_speech.set_service_url('instance')
 text_to_speech.set_disable_ssl_verification(True)
 
 textual_data = [question1, question2, question3, question4, question5, question6, question7, question8, question9, question10, question11, question12, question13, question14, question15, question16, question17, question18, question19, question20, question21, question22, question23]
