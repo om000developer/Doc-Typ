@@ -1,0 +1,1 @@
+The patient's common sentiment that was analyzed, as expressed by speech was 'calm'.
